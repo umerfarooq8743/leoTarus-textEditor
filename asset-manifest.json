@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/leoTarus-textEditor/static/css/main.756af292.css",
+    "main.js": "/leoTarus-textEditor/static/js/main.2c7aed03.js",
+    "static/js/787.35e140a3.chunk.js": "/leoTarus-textEditor/static/js/787.35e140a3.chunk.js",
+    "index.html": "/leoTarus-textEditor/index.html",
+    "main.756af292.css.map": "/leoTarus-textEditor/static/css/main.756af292.css.map",
+    "main.2c7aed03.js.map": "/leoTarus-textEditor/static/js/main.2c7aed03.js.map",
+    "787.35e140a3.chunk.js.map": "/leoTarus-textEditor/static/js/787.35e140a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.2c7aed03.js"
+  ]
+}
